@@ -1,5 +1,14 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "Devin Khun",
+  "description": "A boilerplate project to learn npm",
+  "keywords": [
+    "freecodecamp",
+    "boilerplate",
+    "npm"
+  ],
+  "license": "MIT",
+  "version": "1.2.0",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -10,6 +19,5 @@
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"
-  },
-  "author": "Devin Khun"
+  }
 }
